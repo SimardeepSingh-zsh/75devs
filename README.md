@@ -10,6 +10,6 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [deanmlittle](https://github.com/deanmlittle) | [deanmlittle](https://twitter.com/deanmlittle) | GLtaTaYiTQrgz411iPJD79rsoee59HhEy18rtRdrhEUJ | Rust, Typescript | No
 [Leo](https://github.com/L0STE) | [Leo](https://twitter.com/L0STE_) | 2uESnwhDVSPDZCBhegfUxjRNs5vxLh243QpyMGPmda88 | Rust, Typescript | Yes
 [beliveN](https://github.com/belivenn) | [beliveN](https://twitter.com/L0STE_) | 8j5Xg4AhHWwzo5iaxfPSvrrAtgwHqCF8VLzjs6rFhEtN | Rust| Yes
-[Simar](https://github.com/SimardeepSingh-zsh) | [Simar](https://twitter.com/simar_cloud) | 31o3R9xnTTQnBoUj9CtnN7u1T53pTnXQGh | Python, Javascript, HTML , CSS, Typescript | Yes 
+[Simar](https://github.com/SimardeepSingh-zsh) | [Simar](https://twitter.com/simar_cloud) | AbCvMEd2GgKt3kXmHB4gDeJPy2kQmptHJSs3vYrW1Qaj | Python, Javascript, HTML , CSS, Typescript | Yes 
 [Prakyath](https://github.com/PrakyathReddy) | [0xPrakyath](https://twitter.com/0xPrakyath) | BiQ7xVC3Kg8iewFcdSShKH7ZLBm6x21kKzKvTrfEPpRd | Rust, Typescript | Yes
 [ASCorreia](https://github.com/ASCorreia) | [ASCorreia](https://twitter.com/andrescorreia) | 6eGKgDhFAaLYkxoDMyx2NU4RyrSKfCXdRmqtjT7zodxQ | Rust, Typescript | No
